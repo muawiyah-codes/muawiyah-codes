@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muawiyah-codes/muawiyah-codes/main/assets/hero-banner.svg" alt="Hi, I'm Muawiyah" width="100%" />
+<img src="assets/hero-banner.svg" alt="Hi, I'm Muawiyah" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&height=40&lines=AI%2FML+Engineer;Generative+AI+Developer;Python+Developer;Building+Intelligent+AI+Systems;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation: AI/ML Engineer, Generative AI Developer, Python Developer" />
