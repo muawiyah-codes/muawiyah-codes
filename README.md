@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Muawiyah 👋</h1>
+<img src="https://raw.githubusercontent.com/muawiyah-codes/muawiyah-codes/main/assets/hero-banner.svg" alt="Hi, I'm Muawiyah" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&height=40&lines=AI%2FML+Engineer;Generative+AI+Developer;Python+Developer;Building+Intelligent+AI+Systems;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation: AI/ML Engineer, Generative AI Developer, Python Developer" />
@@ -59,7 +59,8 @@ My work spans **Python · Data Science · Machine Learning · Deep Learning · G
   <tr>
     <td align="right" nowrap><b>Data &amp; Viz</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy, Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=00D4FF" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=00D4FF" alt="Pandas" />
       <img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=matplotlib&logoColor=00D4FF" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/Seaborn-161B22?style=flat-square" alt="Seaborn" />
       <img src="https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=00D4FF" alt="Plotly" />
