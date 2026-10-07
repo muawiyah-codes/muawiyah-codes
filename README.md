@@ -1,29 +1,232 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-🎓 A Data Science student  <br>💻 Skilled in Python, Machine Learning & Deep Learning  <br>🤖 Currently exploring Generative AI, LLMs, LangChain & RAG  <br>📊 Interested in Data Science, AI/ML & GenAI Engineering  <br>🚀 Building real-world AI projects and continuously learning  <br>🎯 Goal: Build intelligent, scalable AI solutions
+<h1>Hi, I'm Muawiyah 👋</h1>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&height=40&lines=AI%2FML+Engineer;Generative+AI+Developer;Python+Developer;Building+Intelligent+AI+Systems;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation: AI/ML Engineer, Generative AI Developer, Python Developer" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ig_muawiyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muawiyah .) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@faizmuawiyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muawiyah9570@gmail.com) 
+<p><i>Building intelligent systems with Machine Learning, Deep Learning, Generative AI &amp; Python.</i></p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muawiyah-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=muawiyah-codes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muawiyah-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://www.linkedin.com/in/muawiyah-8431552a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ai-powered-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:muawiyah9570@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muawiyah-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muawiyah-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=muawiyah-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a **Data Science / Computer Science student** focused on building **real-world AI applications**, and I enjoy turning ML and AI concepts into **deployable products** rather than leaving them in notebooks.
+
+My work spans **Python · Data Science · Machine Learning · Deep Learning · Generative AI · LLMs · RAG · AI Agents · Backend/API development**.
+
+---
+
+## 🧠 What I'm Working On
+
+```text
+→ Generative AI applications
+→ Retrieval-Augmented Generation (RAG)
+→ AI agents and multi-agent systems
+→ LLM-powered applications
+→ FastAPI AI backends
+→ Production-ready ML systems
+```
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="right" nowrap><b>Programming</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,cpp&theme=dark" alt="Python, C++" />
+      <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&labelColor=161B22" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="Scikit-learn, TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-161B22?style=flat-square&logo=keras&logoColor=00D4FF" alt="Keras" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>Data &amp; Viz</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy, Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=matplotlib&logoColor=00D4FF" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-161B22?style=flat-square" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=00D4FF" alt="Plotly" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>Generative AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=00D4FF" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=00D4FF" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/RAG-161B22?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/LLMs-161B22?style=flat-square" alt="LLMs" />
+      <img src="https://img.shields.io/badge/Chroma-161B22?style=flat-square" alt="Chroma" />
+      <img src="https://img.shields.io/badge/Groq-161B22?style=flat-square" alt="Groq" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Pydantic-161B22?style=flat-square&logo=pydantic&logoColor=00D4FF" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, SQLite" />
+      <img src="https://img.shields.io/badge/Vector_Databases-161B22?style=flat-square" alt="Vector Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" nowrap><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code, Docker" />
+      <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=00D4FF" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Google_Colab-161B22?style=flat-square&logo=googlecolab&logoColor=00D4FF" alt="Google Colab" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ How I Build AI Systems
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#E6EDF3','primaryBorderColor':'#00D4FF','lineColor':'#7C3AED','fontFamily':'monospace'}}}%%
+flowchart TB
+    A["Data"] --> B["Preprocessing"]
+    B --> C["ML / DL / LLM"]
+    C --> D["Vector Database / Retrieval"]
+    D --> E["AI Agent / RAG Pipeline"]
+    E --> F["FastAPI"]
+    F --> G["User Application"]
+
+    classDef stage fill:#0D1117,stroke:#00D4FF,stroke-width:1.5px,color:#E6EDF3;
+    classDef out fill:#161B22,stroke:#7C3AED,stroke-width:2px,color:#E6EDF3;
+    class A,B,C,D,E,F stage;
+    class G out;
+```
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Powered Portfolio</h3>
+      <p>Portfolio with a RAG-grounded AI assistant, AI Architecture Lab, Recruiter Mode, developer CLI and a global command palette.</p>
+      <p><code>Next.js</code> · <code>FastAPI</code> · <code>RAG</code> · <code>TypeScript</code></p>
+      <a href="https://github.com/muawiyah-codes/AI-Powered-Portfolio"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="AI-Powered-Portfolio repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Skin Disease Classification</h3>
+      <p>9-class skin disease classifier with Grad-CAM explainability and out-of-domain rejection. <b>96.77% test accuracy.</b></p>
+      <p><code>EfficientNetV2B0</code> · <code>Transfer Learning</code> · <code>Grad-CAM</code> · <code>Streamlit</code></p>
+      <a href="https://github.com/muawiyah-codes/Multi-Skin-Disease-Classification"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Multi-Skin-Disease-Classification repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DocuMind AI</h3>
+      <p>RAG document assistant that retrieves diverse, relevant context with MMR and grounds LLM answers in your documents.</p>
+      <p><code>LangChain</code> · <code>HF Embeddings</code> · <code>Chroma</code> · <code>MMR</code> · <code>Streamlit</code></p>
+      <!-- TODO: replace this link with the exact DocuMind AI repository URL -->
+      <a href="https://github.com/muawiyah-codes?tab=repositories"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="DocuMind AI repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ResearchMind</h3>
+      <p>Multi-agent research system: Search, Reader, Writer and Critic agents turn a topic into a structured, critiqued report.</p>
+      <p><code>LangChain</code> · <code>Groq</code> · <code>Tavily</code> · <code>Streamlit</code></p>
+      <a href="https://github.com/muawiyah-codes/Multi-agent-research-system"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Multi-agent-research-system repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aura Underwrite</h3>
+      <p>Insurance risk-tier classification and premium quoting served through a validated, production-style API.</p>
+      <p><code>Scikit-learn</code> · <code>Random Forest</code> · <code>FastAPI</code> · <code>Pydantic</code></p>
+      <a href="https://github.com/muawiyah-codes/AI-Insurance-Premium-Prediction"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="AI-Insurance-Premium-Prediction repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Student Placement Prediction</h3>
+      <p>Predicts placement status from academic and skill data with regularized logistic regression.</p>
+      <p><code>Scikit-learn</code> · <code>Logistic Regression</code> · <code>Pandas</code> · <code>Streamlit</code></p>
+      <a href="https://github.com/muawiyah-codes/Student-Placement-Prediction"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Student-Placement-Prediction repository" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=muawiyah-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muawiyah-codes&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=muawiyah-codes&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF" alt="GitHub streak" />
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muawiyah-codes/muawiyah-codes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muawiyah-codes/muawiyah-codes/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/muawiyah-codes/muawiyah-codes/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## Developer Terminal
+
+```text
+muawiyah@github:~$ whoami
+AI/ML & Generative AI Developer
+
+muawiyah@github:~$ current_focus
+> LLM Applications
+> RAG Systems
+> AI Agents
+> Machine Learning
+> FastAPI Backends
+
+muawiyah@github:~$ mission
+> Build AI systems that solve real-world problems.
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="https://www.linkedin.com/in/muawiyah-8431552a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/muawiyah-codes"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:muawiyah9570@gmail.com"><img src="https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ai-powered-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<i>Open to opportunities in AI/ML, Generative AI and Python development.</i>
+
+</div>
